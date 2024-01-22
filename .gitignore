@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RMSApi/.vs
+/RMSApi/bin/Debug/net6.0
+/RMSApi/obj
+/RMSApi.Business/bin/Debug/net6.0
+/RMSApi.Business/obj
+/RMSApi.Common/bin/Debug/net6.0
+/RMSApi.Common/obj/Debug/net6.0
+/RMSApi.Common/obj
+/RMSApi.Data/bin/Debug/net6.0
+/RMSApi.Data/obj/Debug/net6.0
+/RMSApi.Data/obj
